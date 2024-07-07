@@ -1,12 +1,9 @@
 # Hottest Spotify Hits - SQL Database Project
 
-Overview
 This project involves creating a normalized SQL database derived from a dataset of Spotify songs. The original dataset was obtained from Kaggle: 
 https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data
 
-
 The purpose of this project is to demonstrate data normalization and SQL database creation skills, transforming a flat CSV file into a structured and normalized SQL database.
-
 
 The Entity-Relationship Diagram (ERD) below visually represents the structure and interconnections of the various tables within the database. This diagram illustrates how data is organized and related across different aspects of the Spotify hits.
 
